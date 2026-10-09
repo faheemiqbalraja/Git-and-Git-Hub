@@ -1,2 +1,2 @@
 This is a new file for Notes
-This change is mean to test branching in git
+This change is meant to test branching in git
